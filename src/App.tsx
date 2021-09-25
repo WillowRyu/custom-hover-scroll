@@ -1,6 +1,7 @@
 import styled from "@emotion/styled";
 import "./App.css";
 import { HoverScrollBar } from "./hover-scroll";
+import React from "react";
 
 const Wrap = styled.div`
   border: 1px solid #999999;

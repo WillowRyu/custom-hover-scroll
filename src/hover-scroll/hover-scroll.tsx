@@ -67,7 +67,7 @@ const HoverScrollBarWrap = styled.div`
 
   .x-scrollBar {
     bottom: 0px;
-    opacity: 1;
+    opacity: 0;
     position: absolute;
     right: 0px;
     top: calc(100% - 20px);
